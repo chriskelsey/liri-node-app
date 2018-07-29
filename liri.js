@@ -34,8 +34,8 @@ function introText() {
   console.log('** Type \'my-tweets\' to see the last 20 Tweets I wrote **');
   console.log('** Type \'spotify-this-song\' \'Song Name\' to get information about a song from Spotify **');
   console.log('** Type\'movie-this\' \'movie title\' to get information about a movie from IMDB **');
-  console.log('** Type \'do-what-it-says\' to generate a predefined function and parameter **')
-  console.log('\n**************** - Thanks - ********************** \n')
+  console.log('** Type \'do-what-it-says\' to generate a predefined function and parameter **');
+  console.log('\n**************** - Thanks - ********************** \n');
 }
 
 //Function fires based off of 'my-tweets'
